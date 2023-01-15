@@ -1,5 +1,10 @@
+# random-password-generator
+![random-pasword-generator](https://user-images.githubusercontent.com/102403844/212567549-eb397861-f132-41db-9658-5c44ade2deba.gif)
+
+
 # new-year-countdown
 ![new-year-countdown](https://user-images.githubusercontent.com/102403844/212559678-46ca914a-29c5-4bcb-a4e6-175ecc31e6a5.gif)
+
 
 # rotating-image-gallery
 https://user-images.githubusercontent.com/102403844/212526413-2f3cba0f-167e-4299-98da-315f750b4673.mp4
