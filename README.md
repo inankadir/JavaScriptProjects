@@ -1,3 +1,7 @@
+# animated-search-bar
+![animated-search-bar](https://user-images.githubusercontent.com/102403844/212574141-e1246c0a-9214-42e7-b64a-25d758c2b12c.gif)
+
+
 # random-password-generator
 ![random-pasword-generator](https://user-images.githubusercontent.com/102403844/212567549-eb397861-f132-41db-9658-5c44ade2deba.gif)
 
