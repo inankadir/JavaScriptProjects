@@ -1,3 +1,7 @@
+# social-media-selector-menu
+![social-media-selector-menu-](https://user-images.githubusercontent.com/102403844/212600296-2d91e3a2-2f95-41dc-ac10-1a6d19cae501.gif)
+
+
 # animated-search-bar
 ![animated-search-bar](https://user-images.githubusercontent.com/102403844/212574141-e1246c0a-9214-42e7-b64a-25d758c2b12c.gif)
 
