@@ -8,10 +8,10 @@ body {
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-h1{
+h1 {
     font-size: 100px;
     color: aliceblue;
-    backdrop-filter: brightness(.5);
+    backdrop-filter: brightness(0.5);
     letter-spacing: 4px;
 }
 
@@ -23,6 +23,7 @@ h1{
     border: 4px solid;
     cursor: pointer;
     transition: 1s background-color;
+    white-space: nowrap;
 }
 
 .btn:hover {
@@ -33,17 +34,42 @@ h1{
 .split {
     width: 50%;
     height: 100%;
-    top: 0;    
+    top: 0;
+    overflow: hidden;    
 }
 
 .split.left {
     position: absolute;
     left: 0;
     background-color: pink;
+    background-image: url("https://st-troy.mncdn.com/mnresize/1500/1500/Content/media/ProductImg/original/mlpj3tua-apple-iphone-13-128gb-productred-637678218867795873.jpg");
+    background-size: cover;
 }
 
 .split.right {
     position: absolute;
     right: 0;
     background-color: lightblue;
+    background-image: url("https://cdn.vatanbilgisayar.com/Upload/PRODUCT/samsung/thumb/131806-1-2_large.jpg");
+    background-size: cover;
+}
+
+.active-left .left {
+    width: 75%;
+}
+
+.active-right .right {
+    width: 25%;
+}
+
+.active-right .left {
+    width: 25%;
+}
+
+.active-right .right {
+    width: 75%;
+}
+
+.left , .right {
+    transition: width 2s ease-in-out;
 }
