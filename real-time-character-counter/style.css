@@ -28,13 +28,13 @@ body {
   border: solid 2px darkgray;
 }
 
-.conter-container {
+.counter-container {
   display: flex;
   justify-content: space-between;
   padding: 0 5px;
 }
 
-.conter-container p {
+.counter-container p {
   font-size: 18px;
   color: gray;
 }
