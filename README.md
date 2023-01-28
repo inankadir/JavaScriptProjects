@@ -1,4 +1,4 @@
 
-# demo link :https://complate-project-link.netlify.app/
+# demo link :https://complete-project-link.netlify.app/
 
 # JavaScriptProjects
